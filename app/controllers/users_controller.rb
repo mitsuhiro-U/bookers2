@@ -27,6 +27,7 @@ class UsersController < ApplicationController
       flash[:not] = "error."
       render :edit
   
+  
     end
   end
 
